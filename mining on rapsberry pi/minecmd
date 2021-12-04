@@ -1,2 +1,5 @@
+Format:
+./xmrig -o gulf.moneroocean.stream:[poll_id] -u [Wallet address] -p [nameurworker/nickname]
+
 Mining Command
 ./xmrig -o gulf.moneroocean.stream:10128 -u 42otjFwkWfHNbvA4Fy8jh7GZwynQetyvnGpTNQ24u2QEA7ikkk65cFnAVRUnQZqkzU3m66kZqv9ioiHovdqeEizeJeTGkcT -p rp4
